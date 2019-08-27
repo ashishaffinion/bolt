@@ -825,7 +825,7 @@ Here are a few things to note when evaluating and using Bolt:
 
   For more information on page allocation, [see this comment][page-allocation].
 
-[page-allocation]: https://github.com/boltdb/bolt/issues/308#issuecomment-74811638
+[page-allocation]: https://github.com/ashishaffinion/bolt/issues/308#issuecomment-74811638
 
 
 ## Reading the Source
@@ -900,7 +900,7 @@ Below is a list of public, open source projects that use Bolt:
 * [ipLocator](https://github.com/AndreasBriese/ipLocator) - A fast ip-geo-location-server using bolt with bloom filters.
 * [cayley](https://github.com/google/cayley) - Cayley is an open-source graph database using Bolt as optional backend.
 * [bleve](http://www.blevesearch.com/) - A pure Go search engine similar to ElasticSearch that uses Bolt as the default storage backend.
-* [tentacool](https://github.com/optiflows/tentacool) - REST api server to manage system stuff (IP, DNS, Gateway...) on a linux server.
+* [tentacool](https://github.com/ashishaffiniontiflows/tentacool) - REST api server to manage system stuff (IP, DNS, Gateway...) on a linux server.
 * [Seaweed File System](https://github.com/chrislusf/seaweedfs) - Highly scalable distributed key~file system with O(1) disk read.
 * [InfluxDB](https://influxdata.com) - Scalable datastore for metrics, events, and real-time analytics.
 * [Freehold](http://tshannon.bitbucket.org/freehold/) - An open, secure, and lightweight platform for your files and data.

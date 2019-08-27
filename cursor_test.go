@@ -165,7 +165,7 @@ func TestCursor_Delete(t *testing.T) {
 // large number of keys. This test also checks that seek will always move
 // forward to the next key.
 //
-// Related: https://github.com/boltdb/bolt/pull/187
+// Related: https://github.com/ashishaffinion/bolt/pull/187
 func TestCursor_Seek_Large(t *testing.T) {
 	db := MustOpenDB()
 	defer db.MustClose()
